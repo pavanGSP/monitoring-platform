@@ -17,12 +17,13 @@ spec:
       labels:
         app: frontend
     spec:
-      containers:
-        - name: frontend
-          image: ghcr.io/OWNER/REPO-frontend:latest
-          imagePullPolicy: IfNotPresent
-          ports:
-            - containerPort: 80
+     containers:
+  - name: frontend
+    image: ghcr.io/pavanGSP/monitoring-platform-frontend:latest
+    imagePullPolicy: IfNotPresent
+    ports:
+      - containerPort: 80
+
           readinessProbe:
             httpGet:
               path: /
