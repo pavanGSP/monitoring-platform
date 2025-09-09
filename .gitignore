@@ -1,0 +1,22 @@
+
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+.env
+venv/
+__pycache__/
+dist/
+build/
+node_modules/
+# Docker
+*.tar
+# Python
+*.pyc
+# Vite
+*.cache
+.vite
+# IDE
+.vscode/
+.idea/
