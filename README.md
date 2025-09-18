@@ -69,3 +69,9 @@ kubectl -n monitor get svc
 
 ## Sizes
 - Python 3.12 slim & nginx:alpine keep images under ~200MB each.
+
+
+===============================================================Output================================================================================
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/257e8384-6106-42b9-bcfc-e7aaedf3808c" />
+
