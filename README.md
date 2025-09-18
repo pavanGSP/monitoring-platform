@@ -75,3 +75,5 @@ kubectl -n monitor get svc
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/257e8384-6106-42b9-bcfc-e7aaedf3808c" />
 
+<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/3c5dd594-f0e9-4a98-b044-b3e7918933b5" />
+
